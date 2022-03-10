@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  background-color: #dadfe9;
+  padding: 5%;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .App-logo {
@@ -35,4 +38,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.reviewform{
+  width: 100%;
+  padding: 10px;
+  text-align: center;
 }
